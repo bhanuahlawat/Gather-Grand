@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 export default function AboutUs() {
   return (
-    <section className="bg-gradient-to-br pt-50 mt-20 from-purple-100 to-pink-100 py-20 px-6 md:px-20" id="about">
+    <section className="bg-gradient-to-br md:pt-30 pt-50 mt-20 from-purple-100 to-pink-100 py-20 px-6 md:px-20" id="about">
       <motion.div
         className="max-w-4xl mx-auto text-center"
         initial={{ opacity: 0, y: 50 }}
