@@ -1,4 +1,3 @@
-// src/components/TrustedBy.jsx
 export default function TrustedBy() {
   return (
     <section className="text-center py-16 bg-gradient-to-br from-purple-50 via-yellow-50 to-pink-50 px-4 md:px-16">

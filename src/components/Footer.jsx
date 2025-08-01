@@ -22,10 +22,8 @@ export default function Footer() {
 
   return (
     
-    // <section id="footer" className="py-24 px-4 bg-gradient-to-r from-[#4a4154] via-[#583e78] to-[#5709ab] text-white relative">
     <section id="footer" className="pt-20 mt-10 py-24 px-4 bg-gradient-to-br from-[#1f1c2c] via-[#2c3e50] to-[#1f1c2c] text-white relative">
 
-      {/* Hidden Watermark */}
       <div className="absolute bottom-4 right-4 opacity-5 hover:opacity-1 transition-opacity duration-500 select-none pointer-events-none text-[2rem] md:text-[4rem] font-bold text-white tracking-widest">
         Bhanu Ahlawat
       </div>
@@ -80,18 +78,6 @@ export default function Footer() {
                 </div>
               </div>
             </div>
-
-            {/* <div className="pt-6">
-              <h4 className="font-semibold mb-3">Let’s Connect</h4>
-              <a
-                href="https://www.linkedin.com/in/bhanu-ahlawat-76683923a/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 text-white/80 hover:text-yellow-300 transition"
-              >
-                <LinkedinIcon /> LinkedIn
-              </a>
-            </div> */}
           </div>
 
           {/* Contact Form */}

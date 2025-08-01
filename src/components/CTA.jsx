@@ -1,4 +1,3 @@
-// src/components/CTA.jsx
 import { FaRocket } from "react-icons/fa";
 
 export default function CTA() {

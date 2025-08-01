@@ -17,7 +17,6 @@ export default function Hero() {
         </a>
       </div>
       <div className="w-full md:w-1/2 mb-6 md:mb-0 flex justify-center">
-        {/* <img src="/images/Wedding1.png" alt="Event" className="w-full max-w-md rounded-lg shadow-xl" /> */}
         <Card/>
       </div>
     </section>
