@@ -16,7 +16,7 @@ export default function FeaturesCarousel() {
       id="features"
     >
       <h3 className="text-3xl md:text-4xl font-extrabold text-center text-gray-800 mb-12">
-        Feature Highlights
+        Feature Highlight
       </h3>
 
       <div className="grid grid-cols-2 md:flex md:p-10 md:gap-10 gap-6 justify-items-center">
