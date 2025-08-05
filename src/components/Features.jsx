@@ -15,8 +15,8 @@ export default function FeaturesCarousel() {
       className="pt-40 px-4 md:px-16 py-16 bg-gradient-to-br from-white via-purple-50 to-yellow-50 mt-20"
       id="features"
     >
-      <h3 className="text-3xl md:text-4xl font-extrabold text-center text-gray-800 mb-12">
-        Feature Highlight
+      <h3 className="text-3xl pt-70px md:text-4xl font-extrabold text-center text-gray-800 mb-12">
+        Feature Highlights
       </h3>
 
       <div className="grid grid-cols-2 md:flex md:p-10 md:gap-10 gap-6 justify-items-center">
